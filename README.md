@@ -9,3 +9,4 @@ El resultado (¿Qué hace?)
  La velocidad: se refiere a los datos en movimiento por las constantes interconexiones que realizamos, es decir, a la rapidez en la que son creados, almacenados y procesados en tiempo real.
 Visualización: nos referimos al modo en el que los datos son presentados. Una vez que los datos son procesados (los datos están en tablas y hojas de cálculo), necesitamos representarlos visualmente de manera que sean legibles y accesibles, para encontrar patrones y claves ocultas en el tema a investigar.
 
+Transformación: con los datos recopilados por cada sensor, serán Guardados y enviados a nuestra API, con la cual se redigiran a la página web para que se plasmen en graficas
