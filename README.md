@@ -7,3 +7,7 @@ El resultado (¿Qué hace?)
  Lo que hace es monitorear el entorno de la planta toma datos como la temperatura de la planta, la humedad del suelo, la temperatura del agua con el que se va regar, una vez ya regados esos datos van directamente hacia la api ahí se van a gráficar y posteriormente el usuario puede estár monitoreando las condiciones de la planta.
 
 
+
+
+
+5 Vs de BIG DATA
