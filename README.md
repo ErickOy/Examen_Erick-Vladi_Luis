@@ -9,4 +9,9 @@ El resultado (¿Qué hace?)
  La velocidad: se refiere a los datos en movimiento por las constantes interconexiones que realizamos, es decir, a la rapidez en la que son creados, almacenados y procesados en tiempo real.
 Visualización: nos referimos al modo en el que los datos son presentados. Una vez que los datos son procesados (los datos están en tablas y hojas de cálculo), necesitamos representarlos visualmente de manera que sean legibles y accesibles, para encontrar patrones y claves ocultas en el tema a investigar.
 
+Volumen: los datos de nuestros sensores se toman en cada momento y se envían a la API
+Veracidad: los datos al ser medidos por los sensores cuentan con una veracidad, ya que estos están creados para captar sus propias mediciones (humedad, temperatura, etc)
+Valor: con los datos obtenidos se puede verificar el correcto funcionamiento del proyecto, y en caso de que los datos arrojados no estén siendo los habituales, se pueda solucionar, ejemplo que los datos de humedad sean bajos quiere decir que la tierra está cerca, por ende no hubo riego ese día o toda esa semana
+
 Transformación: con los datos recopilados por cada sensor, serán Guardados y enviados a nuestra API, con la cual se redigiran a la página web para que se plasmen en graficas
+
