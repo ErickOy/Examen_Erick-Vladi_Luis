@@ -19,3 +19,5 @@ Valor: con los datos obtenidos se puede verificar el correcto funcionamiento del
 
 Transformación: con los datos recopilados por cada sensor, serán Guardados y enviados a nuestra API, con la cual se redigiran a la página web para que se plasmen en graficas
 
+Enlace del diagram etl
+https://www.canva.com/design/DAEUPXSjC04/share/preview?token=lJxGd9dngQ93Y5Ky7Qc-VA&role=EDITOR&utm_content=DAEUPXSjC04&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton 
