@@ -7,3 +7,9 @@ El resultado (¿Qué hace?)
  Lo que hace es monitorear el entorno de la planta toma datos como la temperatura de la planta, la humedad del suelo, la temperatura del agua con el que se va regar, una vez ya regados esos datos van directamente hacia la api ahí se van a gráficar y posteriormente el usuario puede estár monitoreando las condiciones de la planta.
 
 
+
+
+
+Volumen: los datos de nuestros sensores se toman en cada momento y se envían a la API
+Veracidad: los datos al ser medidos por los sensores cuentan con una veracidad, ya que estos están creados para captar sus propias mediciones (humedad, temperatura, etc)
+Valor: con los datos obtenidos se puede verificar el correcto funcionamiento del proyecto, y en caso de que los datos arrojados no estén siendo los habituales, se pueda solucionar, ejemplo que los datos de humedad sean bajos quiere decir que la tierra está cerca, por ende no hubo riego ese día o toda esa semana
