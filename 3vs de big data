@@ -1,5 +1,0 @@
-Volumen: los datos de nuestros sensores se toman en cada momento y se envían a la API
-Veracidad: los datos al ser medidos por los sensores cuentan con una veracidad, ya que estos están creados para captar sus propias mediciones (humedad, temperatura, etc)
-Valor: con los datos obtenidos se puede verificar el correcto funcionamiento del proyecto, y en caso de que los datos arrojados no estén 
-siendo los habituales, se pueda solucionar, ejemplo que los datos de humedad sean bajos quiere decir que la tierra está cerca, 
-por ende no hubo riego ese día o toda esa semana
